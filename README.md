@@ -44,3 +44,4 @@ Sales Amount and Order Count
 🔸 Sales were highest in February and April
 
 📷 Snapshot of Dashboard.<br>
+![Dashboard Preview](https://github.com/AyushMaurya19/Excel-Mahajan-Store-Sales-Forecasting-with-Trend-Analysis-Dashboard-Project/blob/main/Snapshot%20of%20Excel%20Dashboard.png)
