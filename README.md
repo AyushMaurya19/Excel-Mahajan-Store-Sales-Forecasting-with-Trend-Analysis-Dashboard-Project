@@ -1,1 +1,1 @@
-# Excel--Mahajan-Store-Sales-Forecasting-with-Trend-Analysis-
+# Mahajan-Store-Sales-Forecasting-with-Trend-Analysis
