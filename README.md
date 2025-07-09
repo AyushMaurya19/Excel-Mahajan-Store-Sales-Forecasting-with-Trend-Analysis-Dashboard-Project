@@ -4,9 +4,9 @@
 To provide a comprehensive analysis of Mahajan Store's sales performance throughout the year 2022 using an interactive Excel dashboard. This report helps understand customer demographics, purchasing trends, product category performance, and sales channel effectiveness for better business decisions.
 
 **🧰 Tools Used:<br>**
-Microsoft Excel – Dashboard design, charts, slicers, pivot tables
-Power Query – Data cleaning and transformation
-Pivot Charts & Slicers – For dynamic filtering and visualization
+1. Microsoft Excel – Dashboard design, charts, slicers, pivot tables
+2. Power Query – Data cleaning and transformation
+3. Pivot Charts & Slicers – For dynamic filtering and visualization
 
 **📦 Dataset:<br>**
 The dataset consists of retail transaction records for Mahajan Store during 2022. It includes:
@@ -32,12 +32,12 @@ The dataset consists of retail transaction records for Mahajan Store during 2022
 
 
 **📌 Key Performance Indicators (KPIs):**<br>
-📈 Monthly Order vs Sales Trend
-🧑‍🤝‍🧑 Gender-wise and Age-wise Sales Split
-🛒 Category-wise Product Performance
-🌐 Channel-wise Order Distribution
-📍 Top 5 States by Sales
-📦 Order Fulfillment Status
+1. 📈 Monthly Order vs Sales Trend
+2. 🧑‍🤝‍🧑 Gender-wise and Age-wise Sales Split
+3. 🛒 Category-wise Product Performance
+4. 🌐 Channel-wise Order Distribution
+5. 📍 Top 5 States by Sales
+6. 📦 Order Fulfillment Status
 
 **🔍 Recommended Analysis:**<br>
 1. Monitor month-wise sales trends and identify peak periods
@@ -48,12 +48,12 @@ The dataset consists of retail transaction records for Mahajan Store during 2022
 6. Focus marketing on top-selling regions and platforms
 
 **🔎 Key Insights:<br>**
-🔸 Women contributed 69% of the sales
-🔸 Adults are the most active buyers
-🔸 Amazon leads as the top channel (35% of orders), followed by Flipkart and Myntra
-🔸 Over 92% of orders were successfully delivered
-🔸 Maharashtra and Uttar Pradesh are the highest contributing states
-🔸 Sales were highest in February and April
+1. 🔸 Women contributed 69% of the sales
+2. 🔸 Adults are the most active buyers
+3. 🔸 Amazon leads as the top channel (35% of orders), followed by Flipkart and Myntra
+4. 🔸 Over 92% of orders were successfully delivered
+5. 🔸 Maharashtra and Uttar Pradesh are the highest contributing states
+6. 🔸 Sales were highest in February and April
 
 **📷 Snapshot of Dashboard**.<br>
 ![Dashboard Preview](https://github.com/AyushMaurya19/Excel-Mahajan-Store-Sales-Forecasting-with-Trend-Analysis-Dashboard-Project/blob/main/Snapshot%20of%20Excel%20Dashboard.png)
